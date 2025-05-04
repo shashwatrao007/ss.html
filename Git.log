@@ -1,0 +1,14 @@
+2025-02-23 22:26:09.524 [info] [main] Log level: Info
+2025-02-23 22:26:09.524 [info] [main] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2025-02-23 22:26:09.524 [info] [main] Validating found git in: "C:\Program Files (x86)\Git\cmd\git.exe"
+2025-02-23 22:26:09.524 [info] [main] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2025-02-23 22:26:09.524 [info] [main] Validating found git in: "C:\Users\Shashwat\AppData\Local\Programs\Git\cmd\git.exe"
+2025-02-23 22:26:09.540 [warning] Unable to find git. Error: not found: git.exe
+2025-02-23 22:26:09.544 [warning] [main] Failed to create model: Error: Git installation not found.
+2025-02-23 22:32:41.723 [info] [main] Log level: Info
+2025-02-23 22:32:41.723 [info] [main] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2025-02-23 22:32:41.723 [info] [main] Validating found git in: "C:\Program Files (x86)\Git\cmd\git.exe"
+2025-02-23 22:32:41.723 [info] [main] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2025-02-23 22:32:41.723 [info] [main] Validating found git in: "C:\Users\Shashwat\AppData\Local\Programs\Git\cmd\git.exe"
+2025-02-23 22:32:41.741 [warning] Unable to find git. Error: not found: git.exe
+2025-02-23 22:32:41.745 [warning] [main] Failed to create model: Error: Git installation not found.
